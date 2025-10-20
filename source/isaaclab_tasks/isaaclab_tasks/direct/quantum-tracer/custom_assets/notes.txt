@@ -1,0 +1,10 @@
+## Key Notes:
+
+1. **Joint Names**: You need to adjust the joint names in the config to match your URDF/USD file. Look for:
+   - Rear wheel joints (drive)
+   - Front steering joints
+   - Front wheel joints (passive rolling)
+
+2. **USD File**: Place your converted USD file at:
+
+isaac_lab/source/isaaclab_tasks/isaaclab_tasks/direct/quantum_tracer/assets/quantum_tracer.usd

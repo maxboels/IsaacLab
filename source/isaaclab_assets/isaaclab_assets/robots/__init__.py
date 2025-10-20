@@ -21,6 +21,7 @@ from .kinova import *
 from .kuka_allegro import *
 from .pick_and_place import *
 from .quadcopter import *
+from .quantum_tracer import *  # ADDED THIS LINE
 from .ridgeback_franka import *
 from .sawyer import *
 from .shadow_hand import *
